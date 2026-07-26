@@ -1,6 +1,13 @@
-## Hi there 👋
+# Prank Chat Mobile Legends
+```
+p
+[FF0000FF][Semua]nickmusuh (Hirara):[FFFFFFFF] hoammm
+```
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=topibajaa.prank-chat-ML)
 
-<!--
+# Screenshot
+![Preview Chat](ss1.jpg)
+![Preview Chat](ss2.jpg)
 **prankchatml/prankchatml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
