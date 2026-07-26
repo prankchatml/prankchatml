@@ -7,5 +7,5 @@ p
 
 # Screenshot
 ![Preview Chat](https://github.com/topibajaa/prank-chat-ML/blob/main/ss1.jpg?raw=true)
-![Preview Chat](ss2.jpg)
+![Preview Chat](https://github.com/topibajaa/prank-chat-ML/blob/main/ss2.jpg?raw=true)
 
